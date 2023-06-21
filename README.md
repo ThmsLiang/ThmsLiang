@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thmsljj@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ThmsLiang/resume/tree/master](https://github.com/ThmsLiang/resume/tree/master)
+- 📄 Know about my experiences [https://github.com/ThmsLiang/resume/blob/master/README.md](https://github.com/ThmsLiang/resume/blob/master/README.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
