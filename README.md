@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Liang</h1>
 <h3 align="center">CS student at University of Southern California</h3>
 
-- 🌱 I’m currently learning **Django, React**
-
 - 📫 How to reach me **thmsljj@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ThmsLiang/resume/blob/master/README.md](https://github.com/ThmsLiang/resume/blob/master/README.md)
